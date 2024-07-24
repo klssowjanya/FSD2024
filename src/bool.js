@@ -8,4 +8,8 @@ function Bool(){
         </div>
     )
 }
+
+export function Ans(){
+    return "Sowji";
+}
 export default Bool;
